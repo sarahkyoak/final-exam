@@ -1,5 +1,10 @@
 img{max-width:100%;height:auto;}
-.container{margin: 0 auto;background-color:olive; max-width: 700px;}
+.container{margin: 0 auto;background-color:olive; max-width: 700px;border-bottom:5px solid #E8E8E8;margin-bottom: 35px;}
 body{background-color: brown}
 .left-column{max-width: 500px;min-width: 650; float:left;width:66%;}
 .right-column{max-width:500px;min-width: 650; float:right;width:33%;}
+a{color:white;}
+h3{font-weight: normal;padding-bottom: 2px;font-family:Georgia;}
+h2{margin-top:0px;font-size:24px;font-style: italic;font-family:Georgia;}
+h1{font-family:Georgia;}
+.source{margin-bottom: 20px;}
